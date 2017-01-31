@@ -4,4 +4,4 @@ The website hosting the API can be found here: http://www.icndb.com/
 
 You can even change the subject of the joke from Chuck Norris to anyone you wish!
 
-
+https://justincthomas.github.io/Chuck-Norris-Jokes/
